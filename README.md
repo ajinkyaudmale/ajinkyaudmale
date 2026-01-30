@@ -1,131 +1,200 @@
-# Hi there, I'm Ajinkya Udmale 👋
-
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajinkya-udmale.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkya-udmale-15b6482a6)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ajinkya_D_Udmale)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajinkyaudmale1774@gmail.com)
+
+# AJINKYA UDMALE
+
+### Full Stack Web Developer | Computer Science Graduate 2026
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square)](https://ajinkya-udmale.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ajinkya-udmale-15b6482a6)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajinkyaudmale1774@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/Ajinkya_D_Udmale)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajinkyaudmale&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a **Full Stack Web Developer** and **Frontend Enthusiast** passionate about creating responsive, user-friendly interfaces and exploring the world of **Web3** technologies. Currently pursuing my Bachelor's in Computer Science at Savitribai Phule Pune University, expected to graduate in May 2026.
+## PROFESSIONAL SUMMARY
 
-- 🔭 Currently working as a **Full Stack Web Developer Intern** at **Labmentix**
-- 🌱 Learning and building with **React.js**, **Next.js**, and **Solidity**
-- 💡 Interested in **Web2 & Web3 Development**, **Frontend Animations**, and **Problem Solving**
-- 🎯 Solved **100+ DSA problems** on LeetCode
-- ⚡ Fun fact: I'm a prompt and vibe coder who loves crafting smooth animations!
+Full Stack Web Developer with expertise in modern JavaScript frameworks and emerging Web3 technologies. Demonstrated success in building scalable web applications, API testing platforms, and responsive user interfaces. Currently pursuing Bachelor's in Computer Science at Savitribai Phule Pune University with expected graduation in May 2026.
 
-## 💼 Experience
+**Core Competencies:** Frontend Development • API Integration • UI/UX Design • Web3 Technologies • Problem Solving
 
-**Full Stack Web Developer Intern** @ [Labmentix](https://labmentix.com) *(Nov 2025 - Present)*
-- Developed and tested an API Testing Platform for REST API validation
-- Built a Music Player Application with focus on UI/UX and audio playback
-- Gained hands-on experience in software testing, debugging, and teamwork
+---
 
-**Frontend Developer Intern** @ Suvidha Foundation *(Oct 2025 - Nov 2025)*
-- Developed visually appealing portfolio and project presentations
-- Worked with React.js, HTML, Tailwind CSS, and Node.js
+## PROFESSIONAL EXPERIENCE
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+### **Labmentix**
+**Full Stack Web Developer Intern**  
+*November 2025 - Present | Bengaluru (Remote)*
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+- Architected and deployed API Testing Platform validating REST APIs and HTTP methods
+- Developed Music Player Application with advanced audio playback functionality
+- Conducted comprehensive software testing and debugging procedures
+- Collaborated with cross-functional teams on agile development cycles
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</td>
+<td width="50%">
 
-## 🎨 Featured Projects
+### **Suvidha Foundation**
+**Frontend Developer Intern**  
+*October 2025 - November 2025 | India*
 
-### [Personal Portfolio Website](https://ajinkya-udmale.vercel.app)
-A responsive portfolio showcasing my skills and projects with modern UI design and smooth animations.
-- **Tech Stack:** React.js, Tailwind CSS, JavaScript
-- ✨ Features modern animations and responsive design
+- Designed and implemented portfolio presentations using React.js ecosystem
+- Integrated Tailwind CSS for responsive, mobile-first design patterns
+- Optimized application performance and user experience metrics
+- Delivered projects utilizing Node.js backend integration
 
-### [API Testing Frontend Application](https://api-testing-frontend-aj.vercel.app)
-Frontend application demonstrating API integration and login authentication.
-- **Tech Stack:** React.js, JavaScript, REST APIs
-- 🔐 Focus on frontend-backend communication and error handling
+</td>
+</tr>
+</table>
 
-### [Framer Notes App](https://github.com/ajinkyaudmale)
-An intuitive and responsive notes application built with Framer.
-- **Tech Stack:** JavaScript, HTML, Tailwind CSS
-- 📝 Interactive UI/UX for creating, editing, and organizing notes
+---
 
-## 📊 GitHub Stats
+## FEATURED PROJECTS
 
-<div align="center">
-  
-  ![Ajinkya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyaudmale&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyaudmale&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajinkyaudmale&theme=radical)
-
-</div>
-
-## 🏆 Achievements
-
-- 🎯 **100+ Problems** solved on LeetCode
-- 📜 **Internship Certifications** from Suvidha Foundation and Labmentix
-- 📦 **PepsiCo Supply Chain Certification** - Foundational knowledge in supply chain operations
-
-## 📈 LeetCode Stats
-
-<div align="center">
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Ajinkya_D_Udmale?theme=dark&font=Karma&ext=heatmap)
-
-</div>
-
-## 💭 What I'm Currently Working On
-
-```javascript
-const ajinkya = {
-    currentFocus: "Full Stack Web Development",
-    learningNext: ["Web3", "Smart Contracts", "Advanced React Patterns"],
-    interests: ["Frontend Animations", "Blockchain", "Problem Solving"],
-    goal: "Build innovative and impactful web applications",
-    funFact: "I believe in coding with good vibes! 🎵"
-};
+### 1. Personal Portfolio Website | [Live Demo](https://ajinkya-udmale.vercel.app)
+```
+Responsive portfolio platform showcasing professional work and technical capabilities
+├─ Tech Stack: React.js, Tailwind CSS, JavaScript
+├─ Features: Modern animations, responsive design, optimized performance
+└─ Deployed: Vercel with CI/CD pipeline
 ```
 
-## 📫 Let's Connect!
+### 2. API Testing Frontend Application | [Live Demo](https://api-testing-frontend-aj.vercel.app)
+```
+Comprehensive frontend solution for API validation and authentication workflows
+├─ Tech Stack: React.js, JavaScript, REST APIs
+├─ Features: Login authentication, error handling, request/response management
+└─ Focus: Frontend-backend communication protocols
+```
 
-I'm always open to collaborating on interesting projects or discussing web development!
+### 3. Framer Notes Application | [Repository](https://github.com/ajinkyaudmale)
+```
+Interactive notes management system with modern UI/UX design
+├─ Tech Stack: JavaScript, HTML, Tailwind CSS, Framer
+├─ Features: Create, edit, organize notes with intuitive interface
+└─ Highlights: Responsive design, smooth animations, local storage
+```
 
-- 🌐 Portfolio: [ajinkya-udmale.vercel.app](https://ajinkya-udmale.vercel.app)
-- 💼 LinkedIn: [Ajinkya Udmale](https://linkedin.com/in/ajinkya-udmale-15b6482a6)
-- 📧 Email: ajinkyaudmale1774@gmail.com
-- 🏅 LeetCode: [Ajinkya_D_Udmale](https://leetcode.com/u/Ajinkya_D_Udmale)
+---
+
+## TECHNICAL EXPERTISE
+
+<div align="center">
+
+### Languages & Core Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+### Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## PERFORMANCE METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajinkyaudmale&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2&text_color=2C3E50" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyaudmale&theme=default&hide_border=true&background=ffffff&stroke=0A66C2&ring=0A66C2&fire=EA4335&currStreakLabel=2C3E50" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyaudmale&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=2C3E50" alt="Top Languages" width="48%" />
+<img src="https://leetcard.jacoblin.cool/Ajinkya_D_Udmale?theme=light&font=Karma&border=0&radius=10" alt="LeetCode Stats" width="48%" />
+
+</div>
+
+---
+
+## EDUCATION & CERTIFICATIONS
+
+**Bachelor of Science in Computer Science**  
+Savitribai Phule Pune University, Maharashtra, India | *Expected May 2026*
+
+**Professional Certifications**
+- Full Stack Web Development Internship - Labmentix (November 2025 - Present)
+- Frontend Development Internship - Suvidha Foundation (2025)
+- PepsiCo Supply Chain Management Certification - PepsiCo & Internshala
+
+---
+
+## ACHIEVEMENTS & RECOGNITION
+
+<div align="center">
+
+| Category | Achievement | Platform |
+|----------|-------------|----------|
+| **Problem Solving** | 100+ DSA Problems Solved | LeetCode |
+| **Specialization** | Arrays, Strings, Binary Search, Hash Tables, Dynamic Programming | LeetCode |
+| **Development** | Multiple Production-Ready Applications Deployed | Vercel |
+| **Certifications** | Supply Chain Management & Web Development | Multiple |
+
+</div>
+
+---
+
+## DEVELOPMENT FOCUS
+
+```typescript
+interface DeveloperProfile {
+  currentRole: "Full Stack Web Developer Intern";
+  education: "B.Sc. Computer Science (2026)";
+  specializations: ["Frontend Development", "API Integration", "Web3"];
+  currentlyLearning: ["Smart Contracts", "Advanced React Patterns", "Blockchain"];
+  technicalInterests: ["Web2/Web3 Development", "Frontend Animations", "DSA"];
+  careerGoals: "Building scalable, innovative web applications";
+  openToOpportunities: ["Full-time Roles", "Internships", "Collaborations"];
+}
+```
+
+---
+
+## PROFESSIONAL CONTACT
+
+<div align="center">
+
+| Channel | Link | Purpose |
+|---------|------|---------|
+| **Portfolio** | [ajinkya-udmale.vercel.app](https://ajinkya-udmale.vercel.app) | View Projects & Work |
+| **LinkedIn** | [/in/ajinkya-udmale](https://linkedin.com/in/ajinkya-udmale-15b6482a6) | Professional Networking |
+| **Email** | [ajinkyaudmale1774@gmail.com](mailto:ajinkyaudmale1774@gmail.com) | Business Inquiries |
+| **GitHub** | [@ajinkyaudmale](https://github.com/ajinkyaudmale) | Code & Contributions |
+| **LeetCode** | [Ajinkya_D_Udmale](https://leetcode.com/u/Ajinkya_D_Udmale) | Problem Solving Profile |
+
+</div>
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ajinkyaudmale&color=blueviolet&style=flat-square)
-  
-  **Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀**
+
+### Open to Collaboration & Opportunities
+
+*"Building the future of web applications, one commit at a time."*
+
+**Last Updated:** January 2026
 
 </div>
